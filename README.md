@@ -1,5 +1,5 @@
 # PyLogin
-This login system is made using Linux Mint and propably wont work on windows. To use this, you need some settings installed in your linux os:
+This login system is made using Linux Mint and propably wont work on Windows. To use this, you need some settings installed in your linux os:
 1. neofetch  -> Can be installed with 'sudo apt install neofetch' in linux terminal
 2. nautilus -> Can be installed with 'sudo apt-get install nautilus' in linux terminal (Default in Linux Ubuntu)
 3. Python 3.6 or above
