@@ -9,4 +9,4 @@ Username: Admin
 Password: 12345
 This work contains ability to change your username and/or your password and store it to savefile.dat. So next time you login you need to use the new username and/or password.
 
-If you face any problems, feel free to contact me: topias.j.m@gmail.com (No spamming please!)
+If login.py file wont open or something like that happens try deleting __pycache__ folder. Otherwise, feel free to contact me: topias.j.m@gmail.com (No spamming please!)
