@@ -18,6 +18,7 @@ def clear():
 
 # -----------------------------------------
 
+# Simple loading simulation
 def loading():
     loadingDuration = 0
 
