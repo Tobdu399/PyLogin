@@ -9,8 +9,8 @@ user_list = users.user_list
 # .remove to remove
 
 # TODO:
-# Make system that can change username or password
-# Make system that can add and remove users
+# Make system that can change username or password <- This is done
+# Make system that can add and remove users <- This is done
 
 username_input = ""
 password_input = ""
@@ -108,7 +108,7 @@ try:
                     pickle.dump(current_user, f)
                     
                 # Go to second python file after logging in
-                os.system("python3 userData.py")
+                os.system("userData.py")
                 
             else:
                 print("Checking ✕")
